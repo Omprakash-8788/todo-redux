@@ -1,0 +1,30 @@
+.Container{
+    background-color: rgb(39, 39, 245);
+    height: max-content;
+    width: 100%;
+}
+.Button{
+    color: white;
+    height: 50px;
+    
+    background-color: blue;
+    width: 60%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.Input{
+    height: 0.9cm;
+    font-size: 0.7cm;
+}
+
+.List{
+    color: white;
+    background-color: blue;
+    height: max-content;
+    width:10cm
+}
+
+.Delete{
+    height: '10cm';
+}
